@@ -59,4 +59,4 @@ jobs:
           app-name: 'AVXAVUITEST'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1798CE2C5F674C59BAAD64EFE943D8AE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9D61664E30EC4F6B8CFC6AD23CC9125F }}
